@@ -2,7 +2,7 @@
 
 This is a simple and experimental game created in Unity, and hosted online in Github Pages.
 
-Link to game: https://zanbowie138.github.io/
+Link to game: https://zanbowie138.github.io/FirstPersonUnity/first-person-unity.html
 
 ## Basic Controls
 
